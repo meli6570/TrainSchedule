@@ -1,0 +1,27 @@
+body {
+	background: url("train1.jpg") no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;;
+}
+
+.jumbotron {
+	background-color: black;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #afb0bc;
+	opacity: 0.8px;
+}
+
+.panel-heading,.panel-body {
+	background-color: #10111e;
+}
+
+th, td, label {
+	color: #afb0bc;
+}
+
+.form-control {
+	background-color: #afb0bc;
+}
